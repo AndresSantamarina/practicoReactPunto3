@@ -1,9 +1,9 @@
+import Saludo from "./Saludo"
+
 function App() {
 
   return (
-    <>
-    
-    </>
+   <Saludo/>
   )
 }
 
